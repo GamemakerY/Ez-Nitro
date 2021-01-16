@@ -7,9 +7,10 @@ To install the tool execute all the commands in your terminal:
 1. `sudo apt-get install python3.9`
 2. `sudo apt-get install python3-pip`
 3. `sudo apt-get install git`
-4. `git clone https://github.com/MysteriousK69/Discord-Nitro-Generator.git`
-5. `cd Discord-Nitro-Generator`
-6. `python3 main.py`
+4. `pip install PyQt5`
+5. `git clone https://github.com/MysteriousK69/Discord-Nitro-Generator.git`
+6. `cd Discord-Nitro-Generator`
+7. `python3 main.py`
 
 # Usage
 If you wish to know how this tool works checkout my YouTube for a detailed tutorial. https://youtu.be/4-vSuFJKvf4
